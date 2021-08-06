@@ -1,0 +1,15 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     N:\TacShift\CO20_Thatcher_line_Zabavne_obrazky.ruha\ 
+Mission fodler name:   CO20_Thatcher_line_Zabavne_obrazky 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing ArtillerySupport 
+    Folder is not used: Removing CCP 
+    Folder is not used: Removing Conversations 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing FARP 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing POM 
+Done! 
