@@ -6,10 +6,4 @@ Czech jednostky seek for documents or colonel
 ### Version:			1A
 
 ### Changelog: 
-
-
-# NOT APPROVED
-| Reviewer | Result |
-| ------------ | ------------- |
-| - | - |
-| - | - |
+- Created
